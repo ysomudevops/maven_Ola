@@ -1,0 +1,5 @@
+Ola\service\MemberRegistration.class
+Ola\data\MemberListProducer.class
+Ola\util\Resources.class
+Ola\model\Member.class
+Ola\data\MemberRepository.class

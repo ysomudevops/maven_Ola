@@ -1,0 +1,4 @@
+Ola\rest\JaxRsActivator.class
+Ola\util\WebResources.class
+Ola\controller\MemberController.class
+Ola\rest\MemberResourceRESTService.class
